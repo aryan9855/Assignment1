@@ -111,7 +111,7 @@ Passionate about building scalable web applications 🚀
   <img src="screenshots/dashboard.png" width="800" alt="Dashboard View" />
 </p>
 
-### 🔐 Registe Screens
+### 🔐 Register Screens
 <p align="center">
   <img src="screenshots/register.png" width="400" alt="Register" />
 </p>
