@@ -116,8 +116,3 @@ Passionate about building scalable web applications 🚀
   <img src="screenshots/login.png" width="400" alt="Login" />
   <img src="screenshots/register.png" width="400" alt="Register" />
 </p>
-
-### 📖 API Docs
-<p align="center">
-  <img src="screenshots/swagger.png" width="800" alt="Swagger Documentation" />
-</p>
