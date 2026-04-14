@@ -106,13 +106,12 @@ Passionate about building scalable web applications 🚀
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard
+### 🏠 Login
 <p align="center">
   <img src="screenshots/dashboard.png" width="800" alt="Dashboard View" />
 </p>
 
-### 🔐 Auth Screens
+### 🔐 Registe Screens
 <p align="center">
-  <img src="screenshots/login.png" width="400" alt="Login" />
   <img src="screenshots/register.png" width="400" alt="Register" />
 </p>
